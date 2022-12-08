@@ -1,0 +1,6 @@
+export const fieldRequired = "This field is required"
+export const phoneFormat = "The phone format is not appropriate"
+export const emailFormat = "E-mail format is not appropriate"
+export const endDateLargerThanStartDate = "The end date must be greater than start date"
+export const matchingPasswords = "Passwords does not match"
+export const passwordLength = "Password must be 8 characters long"
